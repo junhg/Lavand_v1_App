@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TBD</string>
+    <string name="btnSingout"><u>Sign Out</u></string>
+    <string name="btnSignin"><u>Sign In</u></string>
+</resources>
